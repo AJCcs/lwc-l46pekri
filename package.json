@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/pptbby@gmail.com.lwc-l46pekri",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve qAwhVOnEbSWc6H1THseS --open"
+  }
+}
